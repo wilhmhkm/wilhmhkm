@@ -17,4 +17,4 @@ Fun Facts:
 * I’m a [multipotentialite](https://puttylike.com/terminology/) who enjoys learning across different fields
 * I like eating nasi goreng kampung pattaya and drinking iced lime juice
 * James Bond from the daniel craig era is my favorite espionage film series
-* Hobbies: reading, classical piano, learning about human behavior
+* Hobbies: reading non-fiction, listening to classical piano, learning about human behavior
