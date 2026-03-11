@@ -8,7 +8,7 @@ I enjoy exploring data, analyzing workflows, and uncovering insights that help o
 
 If a process can be measured, I’ll likely try to optimize it.
 
-My main tools are Microsoft Excel, SQL, Power BI, Tableau, and Python. My favorite productivity tools are Jira and Confluence.
+My main tools are Microsoft Excel, SQL, Power BI, Tableau, and Python. My favorite productivity tools are Jira, Confluence, and Todoist.
 
 I'm currently building portfolio projects and strengthening my analytical skills as I work toward securing a full-time data analyst role.
 
