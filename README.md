@@ -2,8 +2,6 @@
 
 I'm Ilham, a data analyst based in Malaysia.
 
-I’m obsessed with improving efficiency in my work, the environments I operate in, and the teams I collaborate with.
-
 I enjoy exploring data, analyzing workflows, and uncovering insights that help organizations operate better.
 
 If a process can be measured, I’ll likely try to optimize it.
