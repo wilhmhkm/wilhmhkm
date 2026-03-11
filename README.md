@@ -18,7 +18,7 @@ Fun Facts:
 
 • I’m a multipotentialite who enjoys learning across different fields
 
-• I like optimizing systems and operational workflows
+• I like eating nasi goreng kampung pattaya and drinking iced lime juice.
 
 • James Bond from the Daniel Craig era is my favorite espionage film series
 
