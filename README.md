@@ -1,26 +1,21 @@
 **Hi there!👋**
 
-I'm Ilham, a Malaysia-based aspiring data analyst with a strong interest in improving efficiency through data.
+I'm Ilham, a data analyst based in Malaysia.
 
-I’m driven by a multipotentialite mindset and enjoy analyzing systems, workflows, and decisions to uncover opportunities for optimization. My goal is to turn raw data into clear insights that improve how teams and organizations operate.
+I’m obsessed with improving efficiency in my work, the environments I operate in, and the teams I collaborate with.
 
-Currently, I’m strengthening my analytical toolkit while building portfolio projects as I work toward securing a full-time data analyst role.
+I enjoy exploring data, analyzing workflows, and uncovering insights that help organizations operate better.
 
-**Tools & Technologies**
+If a process can be measured, I’ll likely try to optimize it.
 
-• Microsoft Excel (Advanced)
-• SQL
-• Power BI
-• Tableau
-• Python
-• Jira
-• Confluence
+My main tools are Microsoft Excel, SQL, Power BI, Tableau, and Python. My favorite productivity tools are Jira and Confluence.
 
-**Fun Facts**
+I'm currently building portfolio projects and strengthening my analytical skills as I work toward securing a full-time data analyst role.
 
+You can reach me through the social links listed in my profile.
+
+Fun Facts:
 • I’m a multipotentialite who enjoys learning across different fields
-• I like optimizing processes and operational workflows
-• My favorite espionage film series is James Bond (Daniel Craig era)
-• Hobbies include reading, playing classical piano, and learning about human behavior
-
-Feel free to connect with me through the social links in my GitHub profile.
+• I like optimizing systems and operational workflows
+• James Bond from the Daniel Craig era is my favorite espionage film series
+• Hobbies: reading, classical piano, learning about human behavior
