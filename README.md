@@ -15,7 +15,11 @@ I'm currently building portfolio projects and strengthening my analytical skills
 You can reach me through the social links listed in my profile.
 
 Fun Facts:
+
 • I’m a multipotentialite who enjoys learning across different fields
+
 • I like optimizing systems and operational workflows
+
 • James Bond from the Daniel Craig era is my favorite espionage film series
+
 • Hobbies: reading, classical piano, learning about human behavior
