@@ -14,7 +14,7 @@ You can reach me through the social links listed in my profile.
 
 Fun Facts:
 
-* I’m a multipotentialite who enjoys learning across different fields
+* I’m a [multipotentialite](https://puttylike.com/terminology/) who enjoys learning across different fields
 * I like eating nasi goreng kampung pattaya and drinking iced lime juice
 * James Bond from the daniel craig era is my favorite espionage film series
 * Hobbies: reading, classical piano, learning about human behavior
