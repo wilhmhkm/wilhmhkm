@@ -1,16 +1,26 @@
-## Hi there 👋
+**Hi there!👋**
 
-<!--
-**wilhmhkm/wilhmhkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ilham, a Malaysia-based aspiring data analyst with a strong interest in improving efficiency through data.
 
-Here are some ideas to get you started:
+I’m driven by a multipotentialite mindset and enjoy analyzing systems, workflows, and decisions to uncover opportunities for optimization. My goal is to turn raw data into clear insights that improve how teams and organizations operate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m strengthening my analytical toolkit while building portfolio projects as I work toward securing a full-time data analyst role.
+
+**Tools & Technologies**
+
+• Microsoft Excel (Advanced)
+• SQL
+• Power BI
+• Tableau
+• Python
+• Jira
+• Confluence
+
+**Fun Facts**
+
+• I’m a multipotentialite who enjoys learning across different fields
+• I like optimizing processes and operational workflows
+• My favorite espionage film series is James Bond (Daniel Craig era)
+• Hobbies include reading, playing classical piano, and learning about human behavior
+
+Feel free to connect with me through the social links in my GitHub profile.
